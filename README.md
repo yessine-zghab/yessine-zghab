@@ -2,7 +2,6 @@
 
 💻 Computer Science | Web Development
 
-🇹🇳 Tunisia
 
 ## About Me
 - Interested in Web Development and Software Engineering.

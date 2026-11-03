@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yessine Zghab 👋
 
-<!--
-**yessine-zghab/yessine-zghab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science | Web Development
 
-Here are some ideas to get you started:
+🇹🇳 Tunisia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Interested in Web Development and Software Engineering.
+- Building practical projects to improve my programming skills.
+- Exploring new technologies and learning every day.
+
+## Technologies & Tools
+- HTML & CSS
+- JavaScript
+- C Programming
+- Git & GitHub
+
+## My Projects
+- 🌐 [ISIMS Student Hub](https://ismis-semestre-1.netlify.app/)
+- 💼 [Personal Portfolio](https://yessinezghab-portfolio.netlify.app/)
+
+## Connect With Me
+- GitHub: [@yessine-zghab](https://github.com/yessine-zghab)
